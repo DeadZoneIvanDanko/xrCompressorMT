@@ -1,4 +1,10 @@
+<div align="center">
+
 # xrCompressorMT
+
+<img src="xrgit.jpg" width="650" alt="xrCompressorMT">
+
+</div>
 
 **Багатопотоковий x64 пакувальник / розпакувальник / перевіряльник архівів `.db` / `.xdb` для S.T.A.L.K.E.R.**
 

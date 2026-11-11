@@ -6,6 +6,8 @@ One `.exe`: double-click for a GUI (UA / EN), or pass arguments for the console 
 
 **English** | [Українська](README.ua.md)
 
+> 🇺🇦 **Коротко:** багатопотоковий x64 пакувальник, розпакувальник і перевіряльник архівів `.db` / `.xdb` для S.T.A.L.K.E.R. Один `.exe`: вікно (UA / EN) або консоль. Сумісний з COC, COP, Monolith, OpenXRay, OGSR, SOC. Повний опис: [README.ua.md](README.ua.md).
+
 ## Features
 
 - **x64 + multithreaded** — LZO compression runs on all CPU cores (`-threads N` to limit)

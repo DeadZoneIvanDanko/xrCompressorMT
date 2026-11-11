@@ -1,7 +1,10 @@
-## xrCompressorMT
-   <p align="center">
-     <img src="xrgit.jpg" width="650" alt="xrCompressorMT">
-   </p>
+<div align="center">
+
+# xrCompressorMT
+
+<img src="xrgit.jpg" width="650" alt="xrCompressorMT">
+
+</div>
 **Multithreaded x64 packer / unpacker / verifier for S.T.A.L.K.E.R. `.db` / `.xdb` archives.**
 
 One `.exe`: double-click for a GUI (UA / EN), or pass arguments for the console packer.

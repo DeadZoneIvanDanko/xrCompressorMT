@@ -4,7 +4,7 @@
 
 One `.exe`: double-click for a GUI (UA / EN), or pass arguments for the console packer.
 
-[Українською](README.uk.md)
+**English** | [Українська](README.ua.md)
 
 ## Features
 

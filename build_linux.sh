@@ -1,0 +1,1 @@
+g++ -std=c++17 -O2 -w -Dregister= -fpermissive -pthread -Ishim -Ilzo src/main.cpp lzo/lzhuf_core.cpp lzo/rt_lzo1x_9x.cpp lzo/rt_lzo1x_1.cpp lzo/rt_lzo_init.cpp lzo/rt_lzo1x_d1.cpp lzo/rt_lzo1x_d2.cpp -o xrCompressorMT_linux
